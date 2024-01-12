@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "name": "Sun-Panel",
+  "port": 3002,
+  "available": true,
+  "exposable": true,
+  "id": "sun-panel",
+  "tipi_version": 9,
+  "version": "1.2.1",
+  "categories": [
+    "utilities"
+  ],
+  "description": "NAS导航面板、Homepage、浏览器首页。",
+  "short_desc": "NAS导航面板、Homepage、浏览器首页",
+  "author": "hslr",
+  "source": "https://github.com/hslr-s/sun-panel",
+  "form_fields": [],
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ]
+}
